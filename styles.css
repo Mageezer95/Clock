@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: #17D4FE
+}
+
+#clock {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
